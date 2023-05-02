@@ -1,0 +1,13 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@nx/workspace": "16.0.1",
+    "nx": "16.0.1",
+    "nx-cloud": "latest",
+    "prettier": "^2.8.8"
+  }
+}
